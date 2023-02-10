@@ -1,6 +1,6 @@
 # Twitter Bot
 
-A twitter bot made in Ruby on Rails. Originaly though as a tiny project to tweet every day how much time has passed since my girlfriend and I started dating.
+A twitter bot made in Ruby on Rails. Originaly though as a tiny project to tweet every day how much time has passed since my (EX) girlfriend and I started dating.
 
 ## Details
 
